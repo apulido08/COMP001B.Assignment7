@@ -4,6 +4,7 @@ body {
     padding: 1;
     background-color: #f4f4f4;
 }
+/* <body> style changes */
 
 header {
     background-color: #0e54e9;
@@ -11,10 +12,12 @@ header {
     padding: 11px 0;
     text-align: center;
 }
+/* <header> style changes */
 
 main {
     padding: 21px;
 }
+/* added padding to <main> tag */
 
 footer {
     background-color: #333;
@@ -25,11 +28,14 @@ footer {
     bottom: 1;
     width: 100%;
 }
+/* style changes for <footer> tag */
 
 h1 {
     color: #333;
 }
+/* color of the <h1> content */
 
 p {
     color: #666;
 }
+/* color of the <p> tag content */
